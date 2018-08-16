@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-4641"
+all_model_checkpoint_paths: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-1571"
+all_model_checkpoint_paths: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-1572"
+all_model_checkpoint_paths: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-3106"
+all_model_checkpoint_paths: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-3107"
+all_model_checkpoint_paths: "/home/harshith/dev/ML/music-dance-predictor/training/model.ckpt-4641"
