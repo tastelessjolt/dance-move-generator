@@ -4,7 +4,7 @@ Give the model some music to get all your dance steps choreographed by us automa
 
 ## Model
 
-Uses a single RNN on RAW audio wav files to classify a window of time to a dance step.
+Uses a single LSTM-RNN layer on RAW audio wav files to classify a window of time to a dance step.
 
 ## Usage
 
